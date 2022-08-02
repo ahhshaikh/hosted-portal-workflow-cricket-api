@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "c2a63935-00d1-4f3a-8f70-afabaab70a77",
+		"_postman_id": "6b181b45-38ef-4d18-87ab-b1a4ca4a3674",
 		"name": "Cricket API",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "16975866"
@@ -27,7 +27,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -193,7 +193,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -404,7 +404,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -596,7 +596,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -807,7 +807,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -999,7 +999,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -1210,7 +1210,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -1402,7 +1402,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -1613,7 +1613,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -1805,7 +1805,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -2016,7 +2016,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -2213,7 +2213,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -2405,7 +2405,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -2611,7 +2611,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -2834,7 +2834,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -3026,7 +3026,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -3237,7 +3237,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -3429,7 +3429,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -3640,7 +3640,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -3832,7 +3832,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -4043,7 +4043,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -4235,7 +4235,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -4446,7 +4446,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -4638,7 +4638,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -4849,7 +4849,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -5046,7 +5046,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -5254,7 +5254,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -5467,7 +5467,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -5659,7 +5659,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -5870,7 +5870,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -6074,7 +6074,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -6278,7 +6278,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -6480,7 +6480,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -6682,7 +6682,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -6889,7 +6889,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -7091,7 +7091,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -7293,7 +7293,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -7495,7 +7495,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -7702,7 +7702,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -7909,7 +7909,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -8111,7 +8111,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -8313,7 +8313,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -8515,7 +8515,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -8722,7 +8722,7 @@
 								},
 								{
 									"key": "value",
-									"value": "1234",
+									"value": "{{api_token}}",
 									"type": "string"
 								}
 							]
@@ -8919,7 +8919,7 @@
 			},
 			{
 				"key": "value",
-				"value": "1234",
+				"value": "{{api_token}}",
 				"type": "string"
 			},
 			{
