@@ -1,8 +1,8 @@
 {
 	"info": {
-		"_postman_id": "6b181b45-38ef-4d18-87ab-b1a4ca4a3674",
+		"_postman_id": "3d1fe6a6-b12d-4d94-a249-273472577207",
 		"name": "Cricket API",
-		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
 		"_exporter_id": "16975866"
 	},
 	"item": [
@@ -14,23 +14,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -82,20 +70,7 @@
 							"originalRequest": {
 								"method": "GET",
 								"header": [],
-								"url": {
-									"raw": "https://cricket.sportmonks.com/api/v2.0/continents",
-									"protocol": "https",
-									"host": [
-										"cricket",
-										"sportmonks",
-										"com"
-									],
-									"path": [
-										"api",
-										"v2.0",
-										"continents"
-									]
-								}
+								"url": "https://cricket.sportmonks.com/api/v2.0/continents"
 							},
 							"status": "OK",
 							"code": 200,
@@ -180,23 +155,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -391,23 +354,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -583,23 +534,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -794,23 +733,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -986,23 +913,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -1197,23 +1112,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -1389,23 +1292,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -1600,23 +1491,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -1792,23 +1671,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -2003,23 +1870,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -2200,23 +2055,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -2392,23 +2235,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -2598,23 +2429,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -2821,23 +2640,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -3013,23 +2820,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -3224,23 +3019,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -3416,23 +3199,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -3627,23 +3398,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -3819,23 +3578,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -4030,23 +3777,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -4222,23 +3957,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -4433,23 +4156,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -4625,23 +4336,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -4836,23 +4535,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -5033,23 +4720,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -5241,23 +4916,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -5454,23 +5117,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -5646,23 +5297,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -5857,23 +5496,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -6061,23 +5688,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -6265,23 +5880,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -6467,23 +6070,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -6669,23 +6260,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -6876,23 +6455,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -7078,23 +6645,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -7280,23 +6835,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -7482,23 +7025,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -7689,23 +7220,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -7896,23 +7415,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -8098,23 +7605,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -8300,23 +7795,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -8502,23 +7985,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -8709,23 +8180,11 @@
 					"request": {
 						"auth": {
 							"type": "apikey",
-							"apikey": [
-								{
-									"key": "in",
-									"value": "query",
-									"type": "string"
-								},
-								{
-									"key": "key",
-									"value": "api_token",
-									"type": "string"
-								},
-								{
-									"key": "value",
-									"value": "{{api_token}}",
-									"type": "string"
-								}
-							]
+							"apikey": {
+								"in": "query",
+								"key": "api_token",
+								"value": "{{api_token}}"
+							}
 						},
 						"method": "GET",
 						"header": [],
@@ -8911,23 +8370,11 @@
 	],
 	"auth": {
 		"type": "apikey",
-		"apikey": [
-			{
-				"key": "in",
-				"value": "query",
-				"type": "string"
-			},
-			{
-				"key": "value",
-				"value": "{{api_token}}",
-				"type": "string"
-			},
-			{
-				"key": "key",
-				"value": "api_token",
-				"type": "string"
-			}
-		]
+		"apikey": {
+			"value": "n5LzFYZkJzEwFPRo21LGS9w4pJ2C9hK3XN3SUnJcpB7pGjbtzHCE7Pjw61me",
+			"in": "query",
+			"key": "api_token"
+		}
 	},
 	"event": [
 		{
